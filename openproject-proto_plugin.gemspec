@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require 'open_project/proto_plugin/version'
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "openproject-proto_plugin"
+  s.name        = "myplugin"
   s.version     = "0.1"#OpenProject::ProtoPlugin::VERSION
   s.authors     = "ramesh"#"OpenProject GmbH"
   s.email       = "info@openproject.org"
